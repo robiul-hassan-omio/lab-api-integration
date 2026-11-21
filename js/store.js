@@ -155,4 +155,4 @@ const showProductDetails = (phone) => {
   };
 };
 
-// loadPhone();
+loadPhone();
